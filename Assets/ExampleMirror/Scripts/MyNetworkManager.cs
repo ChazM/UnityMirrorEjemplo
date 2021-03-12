@@ -24,7 +24,14 @@ public class MyNetworkManager : NetworkManager
     /// <param name="conn">Connection to the server.</param>
     public override void OnClientConnect(NetworkConnection conn)
     {
+        Debug.Log("Evento: Cliente nuevo conectado");
         base.OnClientConnect(conn);
+    }
+
+    public override void OnClientDisconnect(NetworkConnection conn)
+    {
+        Debug.Log("Evento: Cliente desconectado");
+        base.OnClientDisconnect(conn);
     }
 
 }

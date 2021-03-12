@@ -52,6 +52,7 @@ namespace Mirror.Examples.Basic
             OnPlayerColorChanged?.Invoke(newPlayerColor);
         }
 
+
         /// <summary>
         /// This is invoked for NetworkBehaviour objects when they become active on the server.
         /// <para>This could be triggered by NetworkServer.Listen() for objects in the scene, or by NetworkServer.Spawn() for objects that are dynamically created.</para>

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 77c8385acd47d174c9b94b6742a24b93
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roona Sans Black PERSONAL
+  fontNames:
+  - Roona Sans Black PERSONAL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31a3445a66dd9dd48ad0f9ec934c014f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

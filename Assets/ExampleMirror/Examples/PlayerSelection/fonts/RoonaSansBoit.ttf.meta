@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 45c3d03fec2bce1479549ca3f3fec012
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roona Sans Bold PERSONAL
+  fontNames:
+  - Roona Sans Bold PERSONAL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2da4c7d4b3db5247b99d9ad74ca07c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
